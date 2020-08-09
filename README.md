@@ -9,7 +9,7 @@ This program can be used to download videos in all available formats form YouTub
 
 # WINDOW's INSTALLATION FILE link : https://drive.google.com/drive/folders/1XRTqA8N3gq5UhOnZi-f48vvFw10-U3-Z?usp=sharing
 
- You can use the windows installation file given in the above link to install the software in you Windows PC
+You can use the windows installation file given in the above link to install the software in you Windows PC
 ![11](https://user-images.githubusercontent.com/67222042/89734671-28e2b480-da7b-11ea-914a-6c950da61fa3.jpeg)
 
 
