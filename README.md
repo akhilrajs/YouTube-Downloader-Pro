@@ -9,11 +9,13 @@ This program can be used to download videos in all available formats form YouTub
 
 
 uses :
+
 	. download videos from youtube in variable formats 
 	. download the highest bitrate audio from youtube
 	. download the subtitles of a video from youtube
 	
 how to use :
+
 	. first open youtube downloader pro excecutable file
 	. enter the link of the youtube video which you want to download 
 	. click enter
@@ -27,8 +29,10 @@ how to use :
 	. the program saves all these files in the "downloads" folder
 	
 where does it download the files to :
+	
 	. the program downloads all the files into the downloads folder 
 	  inside the main "youtube downloader" folder
 	
 where is the exe file 
+	
 	. it is inside the main folder
