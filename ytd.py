@@ -46,7 +46,7 @@ try:
     print("The Authour of the video is: "+ yt.author)
     time.sleep(1)
     print('the available streams that can be downloaded are as follows')
-    for streams in yt.streams.filter(file_extension='mp4').all():
+    for streams in yt.streams.all():
         print(str(x)+str(streams))
         x+=1
     itag= input(" enter the itag of the corresponding video format : ")
